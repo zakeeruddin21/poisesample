@@ -1,6 +1,7 @@
 # poisesample-cookbook
 
 TODO: Enter the cookbook description here.
+The poise cookbook is a set of libraries for writing reusable cookbooks.  Read more: https://github.com/poise/poise
 
 ## Supported Platforms
 
